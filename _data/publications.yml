@@ -32,7 +32,7 @@ main:
     image: ./assets/img/PID.png
 
   - title: "ATEPP: A dataset of automatically transcribed expressive piano performance"
-    authors: Huan Zhang*, <strong>Jingjing Tang*</strong>, Syed Rafee*, Simon Dixon, George Fazekas, G Wiggins (*Co-Primary Author)
+    authors: Huan Zhang*, <strong>Jingjing Tang*</strong>, Syed Rafee*, Simon Dixon, George Fazekas (*Co-Primary Author)
     conference_short: ISMIR
     conference: The 23rd International Society for Music Information Retrieval Conference, 2022 India
     pdf: https://www.eecs.qmul.ac.uk/~simond/pub/2022/70.pdf

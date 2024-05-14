@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently in my fourth year as a Ph.D. student in Artificial Intelligence and Music (AIM) program, at the C4DM, QMUL, supervised by [Prof. George Fazekas](https://www.eecs.qmul.ac.uk/~gyorgyf/about.html) and [Prof. Geraint Wiggins](https://ai.vub.ac.be/team/geraint-wiggins/). My research is centered around applying deep learning techniques to generate controllable, expressive piano performances, with a specific emphasis on creating pianist-style conditioned outputs. My academic interests span a range of topics, including controllable music generation, modeling of expressive performances, classification of performers, analysis of music performances, and related areas.
+I am currently in my fourth year as a Ph.D. student in Artificial Intelligence and Music ([AIM](https://www.aim.qmul.ac.uk/)) program, at the C4DM, QMUL, supervised by [Prof. George Fazekas](https://www.eecs.qmul.ac.uk/~gyorgyf/about.html) and [Prof. Geraint Wiggins](https://ai.vub.ac.be/team/geraint-wiggins/). My research is centered around applying deep learning techniques to generate controllable, expressive piano performances, with a specific emphasis on creating pianist-style conditioned outputs. My academic interests span a range of topics, including controllable music generation, modeling of expressive performances, classification of performers, analysis of music performances, and related areas.
 
 ## Education
 
@@ -18,6 +18,7 @@ I am currently in my fourth year as a Ph.D. student in Artificial Intelligence a
 - **Machine Learning:** deep generative models, contrastive learning, few-shot learning, transfer learning
 
 ## News
+
 - **[Feb. 2024]** I started my research internship under supervision of [Prof. Yamagishi Junichi](https://researchmap.jp/read0205283) at National Institute of Informatics.
 - **[Nov. 2023]** Our papers about reconstructing human expressiveness in piano performances and a dataset of jazz variations for jazz standards were presented in the oral sessions at CMMR 2023, Japan.
 - **[Oct. 2023]** Our paper about a pianist identification system was presented in the poster session at IS2 2023, Italy.
