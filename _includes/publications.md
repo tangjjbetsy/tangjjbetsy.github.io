@@ -33,9 +33,6 @@
       {% if link.example %} 
       <a href="{{ link.example }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Listening Examples</a>
       {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
-      {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
