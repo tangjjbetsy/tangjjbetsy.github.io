@@ -27,3 +27,5 @@ I am currently in my fourth year as a Ph.D. student in Artificial Intelligence a
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/teaching.md %}
