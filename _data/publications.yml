@@ -2,11 +2,11 @@ main:
   - title: "Towards An Integrated Approach for Expressive Piano Performance Synthesis from Music Scores"
       authors: <strong>Jingjing Tang</strong>, Erica Cooper, Xin Wang, Junichi Yamagishi, George Fazekas
       conference_short: ICASSP
-      conference: The 2nd Workshop on AI Music Generation with AI Music Competition, IEEE Big Data, 2024 Washington DC
-      # pdf: https://arxiv.org/abs/2306.06040
-      # code: https://github.com/tangjjbetsy/RHEPP-Transformer
+      conference: The 50th IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025 Hyderabad
+      pdf: https://tangjjbetsy.github.io/
+      code: https://github.com/tangjjbetsy/S2A
       example: https://tangjjbetsy.github.io/S2A/
-      # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:nmM4_Ph3uPgJ:scholar.google.com/&output=citation&scisdr=ClHBSEIKENT2vPEyUsA:AFWwaeYAAAAAZVQ0SsC8vJPiusEwMHdM2QUKN6w&scisig=AFWwaeYAAAAAZVQ0Ss6yNGbJyRoQer_fTi_8BPg&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+      bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:nmM4_Ph3uPgJ:scholar.google.com/&output=citation&scisdr=ClHBSEIKENT2vPEyUsA:AFWwaeYAAAAAZVQ0SsC8vJPiusEwMHdM2QUKN6w&scisig=AFWwaeYAAAAAZVQ0Ss6yNGbJyRoQer_fTi_8BPg&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
       image: ./assets/img/S2A.png
       notes: Oral Presentation
 
@@ -14,10 +14,10 @@ main:
     authors: Tzu-Ching Hung, <strong>Jingjing Tang</strong>, Kit Armstrong, Yi-Cheng Lin, Yi-Wen Liu
     conference_short: IEEE Big Data
     conference: The 2nd Workshop on AI Music Generation with AI Music Competition, IEEE Big Data, 2024 Washington DC
-    # pdf: https://arxiv.org/abs/2306.06040
-    # code: https://github.com/tangjjbetsy/RHEPP-Transformer
+    pdf: https://tangjjbetsy.github.io/
+    code: https://tangjjbetsy.github.io/
     # example: https://drive.google.com/drive/folders/1nfaZ23vr8xZHlyhTAAppK2hl-aHQPigP?usp=sharing
-    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:nmM4_Ph3uPgJ:scholar.google.com/&output=citation&scisdr=ClHBSEIKENT2vPEyUsA:AFWwaeYAAAAAZVQ0SsC8vJPiusEwMHdM2QUKN6w&scisig=AFWwaeYAAAAAZVQ0Ss6yNGbJyRoQer_fTi_8BPg&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:nmM4_Ph3uPgJ:scholar.google.com/&output=citation&scisdr=ClHBSEIKENT2vPEyUsA:AFWwaeYAAAAAZVQ0SsC8vJPiusEwMHdM2QUKN6w&scisig=AFWwaeYAAAAAZVQ0Ss6yNGbJyRoQer_fTi_8BPg&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/EME33.png
     notes: Oral Presentation
 
