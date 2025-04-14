@@ -7,4 +7,5 @@
   <li>Demonstrator: ECS607U - Data Mining 2022-2023 Sememster A</li>
   <li>Domonstrator: ECS766P - Data Mining 2022-2023 Sememster A</li>
   <li>Supervisor: EECS MSc Project 2022-23, for 10 students</li>
+  <li>Supervisor: EECS MSc Project 2024-25, for 5 students</li>
 </ul>
