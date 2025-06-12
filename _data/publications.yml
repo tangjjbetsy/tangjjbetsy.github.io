@@ -3,8 +3,7 @@ main:
     authors: <strong>Jingjing Tang</strong>, Xin Wang, Zhe Zhang, Junichi Yamagishi, Geraint Wiggins, George Fazekas
     conference_short: ISMIR
     conference: The 26th International Society for Music Information Retrieval Conference, 2025 Korea
-    image: ./assets/img/S2A.png
-    notes: Poster Presentation
+    image: ./assets/img/MIDI-VALLE.png
 
   - title: "Towards An Integrated Approach for Expressive Piano Performance Synthesis from Music Scores"
     authors: <strong>Jingjing Tang</strong>, Erica Cooper, Xin Wang, Junichi Yamagishi, George Fazekas
