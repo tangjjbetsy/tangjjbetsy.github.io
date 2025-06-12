@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently in my fourth year as a Ph.D. student in Artificial Intelligence and Music ([AIM](https://www.aim.qmul.ac.uk/)) program, at the C4DM, QMUL, supervised by [Prof. George Fazekas](https://www.eecs.qmul.ac.uk/~gyorgyf/about.html) and [Prof. Geraint Wiggins](https://ai.vub.ac.be/team/geraint-wiggins/). My research is centered around applying deep learning techniques to generate expressive piano performances. My academic interests span a range of topics, including controllable music generation, modeling of expressive performances, classification of performers, analysis of music performances, and related areas.
+I am currently in my final year as a Ph.D. student in Artificial Intelligence and Music ([AIM](https://www.aim.qmul.ac.uk/)) program, at the C4DM, QMUL, supervised by [Prof. George Fazekas](https://www.eecs.qmul.ac.uk/~gyorgyf/about.html) and [Prof. Geraint Wiggins](https://ai.vub.ac.be/team/geraint-wiggins/). My research is centered around applying deep learning techniques to generate expressive piano performances. My academic interests span a range of topics, including expressive music generation, music performance analysis, music information retrieval, and machine learning for music.
 
 ## Education
 
@@ -13,12 +13,13 @@ I am currently in my fourth year as a Ph.D. student in Artificial Intelligence a
 
 ## Research Interests
 
-- **Automated Music Generation:** controllable music generation, music style transfer, expressive performance rendering, music genration evaluation
+- **Automated Music Generation:** controllable music generation, music style transfer, expressive performance rendering and synthesis, music genration evaluation
 - **Music Information Retrieval:** music performer/composer/style classification, music performance analysis, music transcription, music alignment algorithms
-- **Machine Learning:** deep generative models, contrastive learning, few-shot learning, transfer learning
+- **Machine Learning:** deep generative models, contrastive learning, transfer learning, language models for music, self-supervised learning
 
 ## News
-- **[Apr. 2024]** I started my internship at Sony CSL, Japan.
+- **[June. 2025]** Our paper "MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling" gets accepted by ISMIR 2026, more details will be announced soon.
+- **[Apr. 2025]** I started my internship at Sony CSL, Japan.
 - **[Dec. 2024]** Our paper "Towards An Integrated Approach for Expressive Piano Performance Synthesis from Music Scores" gets accepted by ICASSP 2025.
 - **[Nov. 2024]** Our paper "EME33: A Dataset of Classical Piano Performances Guided by Expressive Markings with Application in Music Rendering" gets accepted by AIMG 2024 Workshop, at IEEE Big Data 2024.
 - **[Sep. 2024]** I transfer to writing-stage now!

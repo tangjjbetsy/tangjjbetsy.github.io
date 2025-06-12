@@ -1,4 +1,11 @@
 main:
+  - title: "MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling"
+    authors: <strong>Jingjing Tang</strong>, Xin Wang, Zhe Zhang, Junichi Yamagishi, Geraint Wiggins, George Fazekas
+    conference_short: ISMIR
+    conference: The 26th International Society for Music Information Retrieval Conference, 2025 Korea
+    image: ./assets/img/S2A.png
+    notes: Poster Presentation
+
   - title: "Towards An Integrated Approach for Expressive Piano Performance Synthesis from Music Scores"
     authors: <strong>Jingjing Tang</strong>, Erica Cooper, Xin Wang, Junichi Yamagishi, George Fazekas
     conference_short: ICASSP
@@ -6,6 +13,7 @@ main:
     pdf: https://arxiv.org/pdf/2501.10222
     code: https://github.com/tangjjbetsy/S2A
     example: https://tangjjbetsy.github.io/S2A/
+    video: https://www.youtube.com/watch?v=ySHAgMwDI9E
     image: ./assets/img/S2A.png
     notes: Poster Presentation
 
@@ -25,6 +33,7 @@ main:
     pdf: https://arxiv.org/abs/2306.06040
     code: https://github.com/tangjjbetsy/RHEPP-Transformer
     example: https://drive.google.com/drive/folders/1nfaZ23vr8xZHlyhTAAppK2hl-aHQPigP?usp=sharing
+    video: https://www.youtube.com/live/hQp9IW_w11I?si=O9iIrfQOC1LdZrSH&t=7685
     image: ./assets/img/RHEPP.png
     notes: Oral Presentation
 
@@ -53,5 +62,6 @@ main:
     pdf: https://www.eecs.qmul.ac.uk/~simond/pub/2022/70.pdf
     code: https://github.com/tangjjbetsy/ATEPP
     page: https://tangjjbetsy.github.io/ATEPP/
+    video: ./assets/video/ATEPP.mp4
     notes: Oral Presentation
     image: ./assets/img/ATEPP.png
