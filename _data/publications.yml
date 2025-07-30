@@ -3,6 +3,10 @@ main:
     authors: <strong>Jingjing Tang</strong>, Xin Wang, Zhe Zhang, Junichi Yamagishi, Geraint Wiggins, George Fazekas
     conference_short: ISMIR
     conference: The 26th International Society for Music Information Retrieval Conference, 2025 Korea
+    pdf: https://arxiv.org/abs/2507.08530
+    code: https://github.com/tangjjbetsy/MIDI-VALLE
+    page: https://tangjjbetsy.github.io/MIDI-VALLE/
+    colab: https://colab.research.google.com/drive/1JuQ7uv8lPbdQhF7xCrcGFg-rCFQ0tPgU?usp=sharing
     image: ./assets/img/MIDI-VALLE.png
 
   - title: "Towards An Integrated Approach for Expressive Piano Performance Synthesis from Music Scores"
@@ -11,7 +15,8 @@ main:
     conference: The 50th IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025 Hyderabad
     pdf: https://arxiv.org/pdf/2501.10222
     code: https://github.com/tangjjbetsy/S2A
-    example: https://tangjjbetsy.github.io/S2A/
+    page: https://tangjjbetsy.github.io/S2A/
+    colab: https://colab.research.google.com/drive/1J16U55C-uBYgMDasUC7-Ku8zirzjFVQb?usp=sharing
     video: https://www.youtube.com/watch?v=ySHAgMwDI9E
     image: ./assets/img/S2A.png
     notes: Poster Presentation
