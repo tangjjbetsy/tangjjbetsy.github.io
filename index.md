@@ -18,10 +18,15 @@ I am currently in my final year as a Ph.D. student in Artificial Intelligence an
 - **Machine Learning:** deep generative models, contrastive learning, transfer learning, language models for music, self-supervised learning
 
 ## News
-- **[June. 2025]** Our paper "MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling" gets accepted by ISMIR 2026, more details will be announced soon.
+- **[Aug. 2025]** Our late breaking demos will be presented at AIMLA 2025 and ISMIR 2025:
+    - "*S2H2S: Modelling Expressive Piano Performances via Continuous Piano Key Motion Signals*" by Jingjing Tang, Shinichi Furuya, George Fazekas, and Vincent K.M. Cheung at ISMIR 2025
+    - "*Towards Intelligent Music Education: Score-Informed Transcription and Performance Assessment*" by Aikaterini Maria Primenta, Jackson Loth, Jingjing Tang, Xavier Riley, Simon Dixon, and Emmanouil Benetos at AIMLA 2025 and ISMIR 2025
+    - "*Transformer-Based Sustain Pedal Reconstruction for Expressive Piano Performance MIDI*" by Wenhao Liu, George Fazekas, and Jingjing Tang at AIMLA 2025.
+
+- **[Jun. 2025]** Our paper "*MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling*" gets accepted by ISMIR 2026, more details will be announced soon.
 - **[Apr. 2025]** I started my internship at Sony CSL, Japan.
-- **[Dec. 2024]** Our paper "Towards An Integrated Approach for Expressive Piano Performance Synthesis from Music Scores" gets accepted by ICASSP 2025.
-- **[Nov. 2024]** Our paper "EME33: A Dataset of Classical Piano Performances Guided by Expressive Markings with Application in Music Rendering" gets accepted by AIMG 2024 Workshop, at IEEE Big Data 2024.
+- **[Dec. 2024]** Our paper "*Towards An Integrated Approach for Expressive Piano Performance Synthesis from Music Scores*" gets accepted by ICASSP 2025.
+- **[Nov. 2024]** Our paper "*EME33: A Dataset of Classical Piano Performances Guided by Expressive Markings with Application in Music Rendering*" gets accepted by AIMG 2024 Workshop, at IEEE Big Data 2024.
 - **[Sep. 2024]** I transfer to writing-stage now!
 - **[Feb. 2024]** I started my research internship under supervision of [Prof. Yamagishi Junichi](https://yamagishilab.jp/people/junichi-yamagishi/) at National Institute of Informatics.
 - **[Nov. 2023]** Our papers about reconstructing human expressiveness in piano performances and a dataset of jazz variations for jazz standards were presented in the oral sessions at CMMR 2023, Japan.
