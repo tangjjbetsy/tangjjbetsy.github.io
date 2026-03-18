@@ -1,4 +1,11 @@
 main:
+  - title: "Visualising Pianists' Touch: Transcribing Expressive Piano Performance from Audio to Piano Key Motion"
+    authors: <strong>Jingjing Tang</strong>, Shinichi Furuya, Hayato Nishioka, Momoko Shioki, Geraint Wiggins, George Fazekas, and Vincent K.M. Cheung
+    conference_short: CHI
+    conference: The ACM (Association for Computing Machinery) CHI conference on Human Factors in Computing Systems, 2026 Barcelona
+    image: ./assets/img/VPT.png
+    notes: Oral Presentation
+
   - title: "MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling"
     authors: <strong>Jingjing Tang</strong>, Xin Wang, Zhe Zhang, Junichi Yamagishi, Geraint Wiggins, George Fazekas
     conference_short: ISMIR
@@ -7,7 +14,9 @@ main:
     code: https://github.com/tangjjbetsy/MIDI-VALLE
     page: https://tangjjbetsy.github.io/MIDI-VALLE/
     colab: https://colab.research.google.com/drive/1JuQ7uv8lPbdQhF7xCrcGFg-rCFQ0tPgU?usp=sharing
+    video: https://youtu.be/wQsjOOWVfkw?si=qr7CUy1ORoa9uCwZ&t=22
     image: ./assets/img/MIDI-VALLE.png
+    notes: Oral Presentation (Best Paper Award Nomination)
 
   - title: "Towards An Integrated Approach for Expressive Piano Performance Synthesis from Music Scores"
     authors: <strong>Jingjing Tang</strong>, Erica Cooper, Xin Wang, Junichi Yamagishi, George Fazekas
@@ -39,7 +48,7 @@ main:
     example: https://drive.google.com/drive/folders/1nfaZ23vr8xZHlyhTAAppK2hl-aHQPigP?usp=sharing
     video: https://www.youtube.com/live/hQp9IW_w11I?si=O9iIrfQOC1LdZrSH&t=7685
     image: ./assets/img/RHEPP.png
-    notes: Oral Presentation
+    notes: Oral Presentation (Best Paper Award Nomination)
 
   - title: "JAZZVAR: A Dataset of Variations found within Solo Piano Performances of Jazz Standards for Music Overpainting"
     authors: Eleanor Row, <strong>Jingjing Tang</strong>, George Fazekas
